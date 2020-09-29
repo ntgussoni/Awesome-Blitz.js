@@ -3,7 +3,7 @@
 
 # Awesome Blitz.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Curated list of resources about Blitz.js.
+> Curated list of resources about :zap: Blitz.js.
 
 ## If you like Blitz.js, consider [Sponsoring the project](https://github.com/sponsors/blitz-js)
 
