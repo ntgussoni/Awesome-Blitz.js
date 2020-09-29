@@ -34,7 +34,8 @@
 * [Twitter](https://twitter.com/blitz_js)
 
 ## Apps Built with Blitz.js
-*Be the first!*
+
+- [Quirrel Console](https://github.com/quirrel-dev/quirrel.dev)
 
 ## Plugins
 *Be the first!*
