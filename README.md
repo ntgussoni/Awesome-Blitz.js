@@ -11,10 +11,10 @@
 - [Contents](#contents)
 - [Community](#community)
 - [Social](#social)
-- [Get started](#getstarted)
+- [Get started](#get-started)
 - [Plugins](#extensions)
 - [Articles](#articles)
-- [Apps Built with Blitz.js](#appsbuiltwithnext)
+- [Apps Built with Blitz.js](#apps-built-with-blitzjs)
 - [Books](#books)
 - [Videos](#videos)
 - [Newsletters](#newsletters)
@@ -49,7 +49,7 @@
 ## Newsletters
 
 ## Contributing
-Found something interesting? Make a Pull Request! Please follow the [guidelines](/CONTRIBUTING.md).
+Found something interesting? Make a Pull Request! Please follow the [CONTRIBUTING guidelines](/CONTRIBUTING.md).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
