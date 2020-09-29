@@ -24,10 +24,11 @@
 ## Community
 * [GitHub](https://github.com/blitz-js/blitz)
 * [GitHub discussions and RFCs](https://github.com/blitz-js/blitz/discussions)
+* [Blitz.js official Slack](https://slack.blitzjs.com/)
 
 ## Get started
-* [Website](https://blitzjs.com/)
-* [Documentation](https://blitzjs.com/docs/getting-started)
+* [:zap: Website](https://blitzjs.com/)
+* [:book: Documentation](https://blitzjs.com/docs/getting-started)
 
 ## Social
 * [Twitter](https://twitter.com/blitz_js)
