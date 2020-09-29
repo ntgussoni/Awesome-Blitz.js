@@ -42,6 +42,7 @@
 * EN
   * [Introduction to Blitz.js](https://dev.to/bnevilleoneill/introduction-to-blitz-js-187h)
   * [Blitz.js a fullstack framework for the serverless era](https://dev.to/iamcherta/blitz-js-a-fullstack-framework-for-the serverless-era-493j)
+  * [The Blitz.js Manifesto (A New Fullstack React Framework)](https://dev.to/flybayer/the-blitz-js-manifesto-a-new-react-framework-1gg7)
 * ES
 
 ## Books
